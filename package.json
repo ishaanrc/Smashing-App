@@ -12,7 +12,7 @@
     "angle-normals": "^1.0.0",
     "art": "^0.10.1",
     "assert": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bunny": "^1.0.1",
     "events": "^3.1.0",

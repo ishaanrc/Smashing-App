@@ -22,7 +22,7 @@
     "gl-mat4": "^1.1.4",
     "gl-react": "^3.13.0",
     "gl-react-expo": "^3.16.3",
-    "knex": "^0.20.15",
+    "knex": "^2.4.0",
     "linear-gradient": "^1.0.6",
     "lodash": "^4.17.15",
     "matter-js": "^0.13.0",
